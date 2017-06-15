@@ -1,0 +1,5 @@
+".\Objects\I2C.obj",
+".\Objects\DS1307.obj",
+".\Objects\Main.obj" 
+TO ".\Objects\DS1307" 
+PRINT(".\Listings\DS1307.m51") RAMSIZE(256) 
